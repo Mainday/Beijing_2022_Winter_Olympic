@@ -1,0 +1,4 @@
+# Beijing_2022_Winter_Olympic
+const OpenTime='2022/02/04 20:00:00'
+
+export default {OpenTime}
